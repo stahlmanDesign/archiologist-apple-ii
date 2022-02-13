@@ -5,10 +5,8 @@ It should be spelled Archeologist or Archæologist, but I was 13 or 14 years old
 
 <p>
 
-<picture>
-    <source srcset="archiologist.mp4" type="video/mp4">
-    <img src="archiologist.png" alt="archiologist video">
-</picture>
+<img src="./archiologist.mp4" alt="animation"/>
+
 
 <figcaption>
   <em>Video capture of the game</em>
